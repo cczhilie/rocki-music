@@ -4,80 +4,79 @@
     "properties": {
         "name": {
             "type": "string",
-            "description": "Identifies the asset to which this token represents",
+            "description": "Identifies the asset to which this token represents"
         },
         "decimals": {
             "type": "integer",
-            "description": "The number of decimal places that the token amount should display - e.g. 18, means to divide the token amount by 1000000000000000000 to get its user representation.",
+            "description": "The number of decimal places that the token amount should display - e.g. 18, means to divide the token amount by 1000000000000000000 to get its user representation."
         },
         "description": {
             "type": "string",
-            "description": "Describes the asset to which this token represents",
+            "description": "Describes the asset to which this token represents"
         },
         "image": {
             "type": "string",
-            "description": "A URI pointing to a resource with mime type image/* representing the asset to which this token represents. Consider making any images at a width between 320 and 1080 pixels and aspect ratio between 1.91:1 and 4:5 inclusive.",
+            "description": "A URI pointing to a resource with mime type image/* representing the asset to which this token represents. Consider making any images at a width between 320 and 1080 pixels and aspect ratio between 1.91:1 and 4:5 inclusive."
         },
         "properties": {
             "type": "object",
-            "description": "Arbitrary properties. Values may be strings, numbers, object or arrays.",
+            "description": "Arbitrary properties. Values may be strings, numbers, object or arrays."
         },
-		"title": {
+        "title": {
             "type": "string",
-            "description": "Rocki_NFT_title",
+            "description": "Rocki_NFT_title"
         },
-		"artist": {
+        "artist": {
             "type": "string",
-            "description": "Rocki_NFT_artist",
+            "description": "Rocki_NFT_artist"
         },
-		"uploadDate": {
+        "uploadDate": {
             "type": "string",
-            "description": "2020-10-20",
+            "description": "2020-10-20"
         },
-		"length": {
+        "length": {
             "type": "string",
-            "description": "00:10:08",
+            "description": "00:10:08"
         },
-		"releaseDate": {
+        "releaseDate": {
             "type": "string",
-            "description": "2020-10-20",
+            "description": "2020-10-20"
         },
-		"playlistSplit": {
+        "playlistSplit": {
             "type": "string",
-            "description": "5%",
+            "description": "5%"
         },
-		"share": {
+        "share": {
             "type": "string",
-            "description": "100",
+            "description": "100"
         },
-		"rocksEarned": {
+        "rocksEarned": {
             "type": "string",
-            "description": "88",
+            "description": "88"
         },
-		"collaborator": {
+        "collaborator": {
             "type": "string",
-            "description": "NFT666 (@nft666)",
+            "description": "NFT666 (@nft666)"
         },
-		"role": {
+        "role": {
             "type": "string",
-            "description": "collaborator",
+            "description": "collaborator"
         },
-		"split": {
+        "split": {
             "type": "string",
-            "description": "100%",
+            "description": "100%"
         },
-		"followers": {
+        "followers": {
             "type": "string",
-            "description": "64",
+            "description": "64"
         },
         "playUrl": {
             "type": "string",
-            "description": "https://rocki-music.s3-ap-southeast-1.amazonaws.com/CieloMasterv1.mp3",
+            "description": "https://rocki-music.s3-ap-southeast-1.amazonaws.com/CieloMasterv1.mp3"
         },
-		"rocks": {
+        "rocks": {
             "type": "string",
-            "description": "1,666.22",
+            "description": "1,666.22"
         }
     }
 }
-
