@@ -24,11 +24,11 @@
         },
         "title": {
             "type": "string",
-            "description": "Rocki_NFT_title"
+            "description": " Cielo NFT"
         },
         "artist": {
             "type": "string",
-            "description": "Rocki_NFT_artist"
+            "description": "Bjorn Niclas"
         },
         "uploadDate": {
             "type": "string",
