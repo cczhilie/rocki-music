@@ -24,7 +24,7 @@
 		},
 		"title": {
 			"type": "string",
-			"description": " Cielo NFT"
+			"description": " Spaced"
 		},
 		"artist": {
 			"type": "string",
