@@ -77,6 +77,10 @@
 		"rocks": {
 			"type": "string",
 			"description": "1,666.22"
+		},
+		"genres": {
+			"type": "string",
+			"description": "Ambient"
 		}
 	}
 }
