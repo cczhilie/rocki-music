@@ -72,7 +72,7 @@
         },
         "playUrl": {
             "type": "string",
-            "description": "https://rocki-music.s3-ap-southeast-1.amazonaws.com/CieloMasterv1.mp3"
+            "description": "https://rocki-nft-1155.oss-us-west-1.aliyuncs.com/music/CieloMasterv1.mp3"
         },
         "rocks": {
             "type": "string",
