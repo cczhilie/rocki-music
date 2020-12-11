@@ -72,7 +72,7 @@
 		},
 		"playUrl": {
 			"type": "string",
-			"description": "hhttps://rocki-music.s3-ap-southeast-1.amazonaws.com/Obie+Fernandez+-+Chomper+(Original+Mix)+ORIGINAL+CONCEPT.mp3"
+			"description": "https://rocki-music.s3-ap-southeast-1.amazonaws.com/Obie+Fernandez+-+Chomper+(Original+Mix)+ORIGINAL+CONCEPT.mp3"
 		},
 		"rocks": {
 			"type": "string",
