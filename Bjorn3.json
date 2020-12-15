@@ -28,7 +28,7 @@
 		},
 		"artist": {
 			"type": "string",
-			"description": "Bjorn Niclas"
+			"description": "Obie Fernandez"
 		},
 		"uploadDate": {
 			"type": "string",
